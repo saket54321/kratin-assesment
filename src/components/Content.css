@@ -1,0 +1,7 @@
+.contentDetails{
+   display: flex;
+   background-color:#0d3562;
+   border-radius: 20px;
+   margin: 5px 5px 5px 0px;
+   height: 100%;
+}

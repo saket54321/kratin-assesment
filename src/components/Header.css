@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  width: 100vw;
+  height: 10vh;
+  background-color: #0d3562;
+  position: fixed;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 0 6px 0 white;
+  padding-top: 2px;
+}
+.logo {
+  padding-left: 10px;
+  height: 100%;
+  width: 5%;
+  display: flex;
+  align-items: center;
+}
+.logo img {
+  width: 100%;
+  cursor: pointer;
+  border-radius: 5%;
+}
+.logoDetails{
+  font-size: 20px;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: 700;
+  text-decoration: underline;
+  padding-left: 10px;
+  color: white;
+}
+.companyName{
+  font-weight: 700;
+}
+.profile {
+  margin-right: 20px;
+  height: 100%;
+  width: 5%;  display: flex;
+  align-items: center;
+}
+.profile img {
+  margin-right: 20px;
+  width: 100%;
+  cursor: pointer;  box-shadow: 0 0 6px 0 white;
+  border-radius: 50%;
+
+}

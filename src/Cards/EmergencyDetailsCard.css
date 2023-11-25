@@ -1,0 +1,29 @@
+div.detailsContact {
+  background-color: #0d3562;
+  height: 100vh;
+  border-radius: 10px;
+}
+.table {
+  margin-top: 5px;
+  width: 100%;
+  border-radius: 10px;
+  background-color: #0d3562;
+  box-shadow: 0 0 5px 0 white;
+}
+
+th.col {
+  border-bottom: 2px dotted white;
+  font-size: 2rem;
+  color:white;
+}
+
+td.column {
+  border-bottom: 2px dotted white;
+  text-align: center;
+  font-size: 2rem;  color: white;
+
+}
+tr td:hover {
+  background-color: white;
+  color: #0d3562;
+}

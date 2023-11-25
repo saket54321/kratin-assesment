@@ -1,0 +1,24 @@
+div.asideContainer {
+  display: flex;
+  flex-direction: row;
+  padding-top: 11vh;
+}
+.asideContainer {
+  height: 100%;
+  width: 100%;
+}
+
+.menuBarContainer {
+  width: 30%;
+}
+.menuBars{
+   background-color: #0d3562;
+   border-radius: 10px;
+   height: 100vh;
+   /* margin: 5px; */
+   box-shadow: 0 0 6px 0 white;
+   padding-top: 5px;
+}
+.contentContainer {
+  width: 70%;
+}

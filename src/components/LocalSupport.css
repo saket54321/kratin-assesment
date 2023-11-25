@@ -1,0 +1,8 @@
+.lscardContainer{
+background-color:#0d3562;
+margin-left: 0.2rem;
+border-radius: 10px;
+box-shadow: 0 0 2px 0 white;
+height: 100vh;
+overflow-y: scroll;
+}
